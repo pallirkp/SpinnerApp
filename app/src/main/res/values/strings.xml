@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerApp</string>
+    <string-array name="age">
+        <item>0-365 Days</item>
+        <item>1-5 Years</item>
+        <item>5-12 Years</item>
+        <item>13-19 Years</item>
+        <item>20-35 Years</item>
+        <item>35-60 Years</item>
+        <item>60 Years and above</item>
+    </string-array>
+
+</resources>
